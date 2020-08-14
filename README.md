@@ -1,5 +1,5 @@
 # Game Repository
-Each folder contain a the functionality source code and their demo link.
+Each folder contain a the functionality source code and their demo link (if applicable).
 
 # Cocos Creator Games
 - Hop Harvest
